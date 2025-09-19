@@ -1,0 +1,13 @@
+id,url,text,citations
+1,https://www.nature.com/articles/s41586-024-00000,Nature research article about climate change impact.,1200
+2,https://www.sciencedirect.com/science/article/pii/S0167739X21012345,Peer-reviewed computer science article.,850
+3,https://www.cdc.gov/healthypets/index.html,CDC information on health and pets.,0
+4,https://www.nytimes.com/2025/01/15/technology/ai-regulation.html,NYTimes article about AI regulation and government oversight.,50
+5,https://www.bbc.com/news/business-12345678,BBC coverage on economic trends in Europe.,15
+6,https://www.reuters.com/world/europe/europe-economy-2025-02-01,Reuters report on European economy in 2025.,20
+7,https://medium.com/@randomauthor/my-thoughts-on-crypto,Personal blog post about cryptocurrency speculation.,0
+8,https://substack.com/@writer/politics2025,Substack opinion newsletter about politics.,0
+9,https://arxiv.org/abs/2501.01234,arXiv preprint in machine learning.,300
+10,https://www.naturalnews.com/,Alternative health conspiracy site promoting unverified cures.,0
+11,https://beforeitsnews.com/,Fringe news aggregator known for conspiracy content.,0
+12,notaurl,This row tests invalid input handling.,0
