@@ -81,5 +81,5 @@ id,url,rule_score,citation_boost,ml_pred,hybrid_score
 - Content features are limited to TF-IDF; richer signals (author metadata, link analysis, social credibility) are future work.  
 - Scores are heuristic, not absolute truth; users should interpret them as guidelines.  
 
-n.  
+
 
