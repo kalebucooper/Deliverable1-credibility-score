@@ -81,10 +81,5 @@ id,url,rule_score,citation_boost,ml_pred,hybrid_score
 - Content features are limited to TF-IDF; richer signals (author metadata, link analysis, social credibility) are future work.  
 - Scores are heuristic, not absolute truth; users should interpret them as guidelines.  
 
-## Next Steps (for later deliverables)
-- Expand domain prior list using larger datasets.  
-- Collect labeled data to properly train and calibrate the ML model.  
-- Add advanced features: article length, citation networks, fact-check integration, and social signals.  
-- Explore more powerful models (e.g., Random Forest, XGBoost, or transformers).  
-- Improve fairness: mechanisms for appeals and bias detection.  
+n.  
 
