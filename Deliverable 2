@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Deliverable 2 — Balanced Technical Review
+Deliverable 2 — Technical Review
 =========================================
 
 This file provides section-level comments that highlight both strengths and areas to improve. 
@@ -332,8 +332,5 @@ if __name__ == "__main__":
 # evaluation can be more thorough (cross-validation, ROC-AUC, calibration), and rule weights 
 # should be tuned with data. Future versions could also test embeddings for better text 
 # understanding. Saving results and models for reproducibility would also be good practice.
-#
-# This is a great foundation and shows strong progress for someone building their skills in 
-# data science. With these next steps, it can become a much stronger system.
 # ------------------------------------------------------------------
 
